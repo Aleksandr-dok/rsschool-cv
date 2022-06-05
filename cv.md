@@ -6,12 +6,12 @@
 4. Skills:     
     + HTML, JS, Git - in the process of studying
     + some products Adobe
-* Code example
+5. Code example
 
 	`function multiply(a, b)\{
 	return a * b
 	}`
-* Currently under study.
+6. Currently under study.
     <https://github.com/Aleksandr-dok/rsschool-cv.git>
-* Secondary education.
-* English A2, Russian (Native)
+7. Secondary education.
+8. English A2, Russian (Native)
